@@ -26,12 +26,12 @@
 #### My Current Stack
 
 <p float="left">
-  <img height="48" style="padding-right: 20px" src="img/javascript-programming-language-icon.svg" alt="javascript"> <img height="48" src="img/node-js-icon.svg" alt="nodejs"> 
-  <img height="48" style="padding-right: 20px" src="img/mongodb-icon.svg" alt="mongodb"> 
-  <img height="48" style="padding-right: 20px" src="img/react-js-icon.svg" alt="reactjs"> 
-  <img height="48" style="padding-right: 20px" src="img/electron-icon.svg" alt="electron"> 
-  <img height="48" style="padding-right: 20px" src="img/html-icon.svg" alt="html5"> 
-  <img height="48" style="padding-right: 20px" src="img/bootstrap-5-logo-icon.svg" alt="bootstrap5"> 
-  <img height="48" style="padding-right: 20px" src="img/npm-icon.svg" alt="npm"> 
-  <img height="48" style="padding-right: 20px" src="img/mac-os-x-icon.svg" alt="macosx">
+  <img height="48" style="padding-right: 48px" src="img/javascript-programming-language-icon.svg" alt="javascript"> <img height="48" src="img/node-js-icon.svg" alt="nodejs"> 
+  <img height="48" style="padding-right: 48px" src="img/mongodb-icon.svg" alt="mongodb"> 
+  <img height="48" style="padding-right: 48px" src="img/react-js-icon.svg" alt="reactjs"> 
+  <img height="48" style="padding-right: 48px" src="img/electron-icon.svg" alt="electron"> 
+  <img height="48" style="padding-right: 48px" src="img/html-icon.svg" alt="html5"> 
+  <img height="48" style="padding-right: 48px" src="img/bootstrap-5-logo-icon.svg" alt="bootstrap5"> 
+  <img height="48" style="padding-right: 48px" src="img/npm-icon.svg" alt="npm"> 
+  <img height="48" style="padding-right: 48px" src="img/mac-os-x-icon.svg" alt="macosx">
 </p>
