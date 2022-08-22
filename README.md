@@ -26,12 +26,11 @@
 #### My Current Stack
 
 <p float="left">
-  <img height="48" style="margin-right: 24px" src="img/javascript-programming-language-icon.svg" alt="javascript"> <img height="48" src="img/node-js-icon.svg" alt="nodejs"> 
-  <img height="48" style="margin-right: 24px" src="img/mongodb-icon.svg" alt="mongodb"> 
-  <img height="48" style="margin-right: 24px" src="img/react-js-icon.svg" alt="reactjs"> 
-  <img height="48" style="margin-right: 24px" src="img/electron-icon.svg" alt="electron"> 
-  <img height="48" style="margin-right: 24px" src="img/html-icon.svg" alt="html5"> 
-  <img height="48" style="margin-right: 24px" src="img/bootstrap-5-logo-icon.svg" alt="bootstrap5"> 
-  <img height="48" style="margin-right: 24px" src="img/npm-icon.svg" alt="npm"> 
-  <img height="48" style="margin-right: 24px" src="img/mac-os-x-icon.svg" alt="macosx">
+  <img height="48" src="img/javascript-programming-language-icon.svg" alt="javascript"> <img height="48" src="img/node-js-icon.svg" alt="nodejs"> 
+  <img height="48" src="img/mongodb-icon.svg" alt="mongodb"> 
+  <img height="48" src="img/react-js-icon.svg" alt="reactjs"> 
+  <img height="48" src="img/electron-icon.svg" alt="electron"> 
+  <img height="48" src="img/html-icon.svg" alt="html5"> 
+  <img height="48" src="img/bootstrap-5-logo-icon.svg" alt="bootstrap5"> 
+  <img height="48" src="img/npm-icon.svg" alt="npm"> 
 </p>
